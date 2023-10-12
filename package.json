@@ -1,0 +1,30 @@
+{
+  "name": "thechatrooms",
+  "version": "1.1.1",
+  "description": "A chatroom",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sanitize-html": "2.3.2",
+    "socket.io": "^2.4.0"
+  },
+  "devDependencies": {
+    "node": "^2.0.19"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cristian",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianPinedaD/The_Chatrooms-Main.git"
+
+  },
+  "bugs": {
+    "url": "https://github.com/CristianPinedaD/The_Chatrooms-Main/issues"
+  },
+  "homepage": "https://github.com/CristianPinedaD/The_Chatrooms-Main#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
